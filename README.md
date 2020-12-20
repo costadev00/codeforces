@@ -1,3 +1,3 @@
 # codeforces
  Repository to add codeforces exercises solved(or tried to)
- <p> <img src="https://giphy.com/gifs/14qgEfMsjXb2VO/html5" width="380" height="450" align="left"/></p> 
+ <p> <img src="https://media.giphy.com/media/3miX7ATCD3tW0CbQZj/giphy.gif" width="380" height="450" align="left"/></p> 
